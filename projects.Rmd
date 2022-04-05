@@ -1,0 +1,30 @@
+---
+title: "Projects"
+description: |
+  Putting energy efficiency and comfort first
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 1970s Stourbridge terrace
+
+> *An extension and deep retrofit of a 3-storey terrace built in the early 70s.*  
+
+These terraces are fairly common in Stourbridge and have a simple form that makes them great for passivhaus-style retrofit. They weren't built with energy efficiency in mind though and can be draughty and cold, lacking insulation pretty much everywhere.
+
+This house got a completely new lease of life, creating a stunning home designed for family life and home-working and a role in tackling the climate and energy crises. It received:
+
+- a single-storey timber frame extension at the rear,
+- the ground floor completely excavated to lay insulation under a new slab with underfloor heating and a polished concrete finish
+- new triple glazed windows and doors throughout
+- the solid-walled front rebuilt in timber frame
+- a new, stronger roof, packed with insulation and ready for solar panels
+- a thick layer of external wall insulation at the side and rear
+- internal remodelling including converting the garage to an office/guest room and utility/plant room, a new shower room on the second floor, a longer, thinner bathroom and larger third bedroom and some "loft" space over the second stair
+- new kitchen in the extended kitchen-diner with an enlarged opening seamlessly connecting the old and new
+- mechanical ventilation with heat recovery and waste water heat recovery
+- gas disconnected and replaced with an air source heat pump
+- a full rewire with provision for excellent WIFI everywhere and as much smart tech as desired
+- new fitures and fittings throughout

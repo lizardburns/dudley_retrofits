@@ -1,0 +1,20 @@
+---
+title: "dudley retrofits"
+description: |
+  build and renovate sustainably
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Based in the Dudley area, in the West Midlands, we are a construction company set on helping transform the UK housing stock to meet the challenges of the climate crisis. We are experts in energy efficient retrofit and construction who can support you from the design stage of your project right through to completion, acting as the principal contractor or a sub-contractor.  
+
+We work with leading architects in sustainable construction design and specialise in giving existing buildings modern make-overs that make them extremely low energy and equip them for the next generations.  
+
+We take a fabric first approach to building renovation, applying passivhaus principles to create sustainable and comfortable homes that people can be happy in. [Read more about passivhaus](passivhaus.html).  
+
+We prioritise sustainable materials wherever possible, which means we like to build with timber and insulate with recycled paper. We also create extremely air tight and well ventilated spaces through the use of specialist airtightness products and mechanical ventilation with heat recovery.  
+
+If you are interested in certifying your building as a low energy building, we can undertake the energy modelling and are qualified to certify to the AECB standard or work alongside an independent certifier to certify to the passivhaus standard.  

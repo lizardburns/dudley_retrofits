@@ -1,0 +1,16 @@
+---
+title: "Build better"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/dr.jpg)
+
+We are a Dudley based construction company that focuses on energy efficiency, sustainability and comfort. We are experts in energy efficient retrofit and construction (passivhaus) who can support you from the design stage of your project right through to completion, acting as the principal contractor or a sub-contractor.  
+
+If you're thinking of renovating your home and want to end up more comfortable and with lower bills, then get in touch to see how we can help!  
+
+[dudley.retrofits@gmail.com](mailto:dudley.retrofits@gmail.com)
