@@ -1,8 +1,9 @@
 name: "website"
 title: "dudley retrofits"
 description: |
-  dudley retrofits
+  build and renovate sustainably
 output_dir: "docs"
+base_url: https://lizardburns.github.io/dudley_retrofits/
 navbar:
   logo: images/dr_dark_transparent.png
   right:
